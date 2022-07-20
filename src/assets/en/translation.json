@@ -1,0 +1,123 @@
+{
+  "Login": "Login",
+  "Logout" : "Logout",
+  "Share your passion" : "Share your passion !",
+  "Title Main Page" : "Share Passions",
+  "Welcome Text" : "Hello ! Welcome on the main page. The site is under construction, come back later !",
+  "Buttons" : {
+    "Navigation_Main" : "Main"
+  },
+  "Welcome" : {
+    "Question1" : "Are you a ... ?",
+    "TitleA" : "Adventurer",
+    "TitleP" : "Passionate",
+    "Adventurer": {
+      "List1" : [
+        "Do you like discover new activities ?",
+        "Are you not affraid to meet new people ?",
+        "But you don't know where to start...",
+        "But you don't want to spent to much on it..."
+      ],
+      "Question1" : "So who is better than a passionate to fit all of those ?",
+      "TimeLine1" : [
+        {
+          "title" : "The localisation",
+          "text" : "Fill your postal code to define your search area"
+        },
+        {
+          "title" : "Filter, Compare",
+          "text" : "Choose tour preferences and check all the hobbies' wall around your place"
+        },
+        {
+          "title" : "Make the first step",
+          "text" : "One your hobby choose, send the first message to discuss"
+        }
+      ],
+      "List2" : [
+        "You have a better idea of how this hobby works",
+        "You know where to start and by knowing someone",
+        "You only paid the bare minimum",
+        "You have a better idea if you want to get into it !"
+      ]
+    },
+    "Passionate": {
+      "List1" : [
+        "Do you have a hobby ?",
+        "Do you like to share your experience and knowledge ?",
+        "But sometimes you feel a bit lonely...",
+        "But you don't want other people to fall into the same traps..."
+      ],
+      "Question1" : "So who is better than a adventurer to fit all of those ?",
+      "TimeLine1" : [
+        {
+          "title" : "Welcome",
+          "text" : "Create your account"
+        },
+        {
+          "title" : "Express yourself",
+          "text" : "Create your hobby's wall, write some text, put some pictures or videos to share your path with it"
+        },
+        {
+          "title" : "Define your preferences",
+          "text" : "Define your rhythm, your notifications and meeting's type you would like to have around your hobby"
+        }
+      ],
+      "List2" : [
+        "You have met potential future passionate",
+        "You have shared your passion and experience to the fullest",
+        "You have new contacts and friends",
+        "And it only cost you time!"
+      ]
+    },
+    "TimeLine1" : [
+      {
+        "title" : "Discuss",
+        "text" : "Discuss around the hobby and the passionate experience by message, ask question/respond to them to discorver the other"
+      },
+      {
+        "title" : "Virtual meeting",
+        "text" : "If you like, you can meet virtually first on different platform"
+      },
+      {
+        "title" : "Prepare the Experience",
+        "text" : "The passionate can propose a Experience when he is ready and give all the information to be ready : the place, the time... The adventurer can accept or propose a modification"
+      },
+      {
+        "title" : "Have a Great time",
+        "text" : "Do the experience, discover the person and the hobby"
+      },
+      {
+        "title" : "Feedback",
+        "text" : "After the experience, give a feedback and a thank you to the other to share how cool it was"
+      }
+    ],
+    "Form" : {
+      "Interest" : {
+        "QuestionP" : {
+          "Title" : "Interested? Subscribe as a Passionnate",
+          "Email" : "Email",
+          "ErrorEmail" : "invalid email",
+          "Checkbox" : "Subscribe to the project's newsletter ?",
+          "Validation" : "Submit"
+        },
+        "QuestionA" : {
+          "Title" : "Interested? Subscribe as an Adventurer",
+          "Email" : "Email",
+          "ErrorEmail" : "invalid email",
+          "Checkbox" : "Subscribe to the project's newsletter ?",
+          "Validation" : "Submit"
+        },
+        "Notification" : {
+          "Success" : {
+            "title" : "Noted !",
+            "message" : "Thanks for showing your support for the project"
+          },
+          "Fail" : {
+            "title" : "Oups...",
+            "message" : "It looks like this email address has been already used, try again with another one. "
+          }
+        }
+      }
+    }
+  }
+}
